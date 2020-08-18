@@ -36,8 +36,10 @@ I'm Olivier, young Full Stack / IT admin
 <br />
 <br />
 
+<!--
 ### GitHub Stats :
 
 <img align="left" src="https://github-readme-stats.bobtoutpuissant.vercel.app/api/top-langs/?username=bobtoutpuissant&card_width=235&layout=compact&hide_border=true&hide_title=true" alt="Olivier's Most Used Languages" />
 
 <img align="center" width="450" src="https://github-readme-stats.bobtoutpuissant.vercel.app/api?username=bobtoutpuissant&hide_rank=false&line_height=30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1e2a38&icon_color=1e2a38&hide=prs,issues&hide_title=true" alt="Olivier's Github Stats" />
+ -->
